@@ -10,4 +10,9 @@
     em 'p'.
 
 # Resolução
+ -  Fiz a chamanda com o get para uma requição para página example
+    executando o file system na pagina example
+
+ -  Utilize um each para iterar por todos os p da página e depois 
+    imprimir na tela.
     
